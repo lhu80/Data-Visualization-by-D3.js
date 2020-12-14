@@ -20,3 +20,16 @@ who rated and year it was published. In the data sample below, each row under th
 game name, year, average rating, and number of users who rated the game.
 
 ![Alt Text](./q4.gif)
+
+
+## Project 4 Choropleth maps 
+Description: Use choropleth maps to examine the popularity of different board games across the world based on two data file ratings-by-country.csv and world_countries.json. </br>
+● Game: the name of a game, e.g., Catan.</br>
+● Country: a country in the world e.g., United States of America.</br>
+● Number of Users: the number of users who have rated Game who are from Country.</br>
+● Average Rating: the mean rating given to Game by users who are from Country.</br>
+
+![Alt Text](./q5.gif)
+
+
+
