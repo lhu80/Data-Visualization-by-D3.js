@@ -6,5 +6,9 @@ network visualization](https://www.reddit.com/r/boardgames/comments/9aphuw/a_net
 ![Alt Text](./q2.gif)
 
 
-## Project 1 
+## Project 2
+Description: Number of Ratings 2016-2020 with Rankings
+● Horizontal axis label: Month.
+● Vertical axis label: Num of Ratings. Use a linear scale, Square root Scale and Log Scale.
+
 ![Alt Text](./q3.gif)
