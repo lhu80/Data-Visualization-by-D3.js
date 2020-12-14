@@ -18,3 +18,5 @@ Description:  </br>
 Description: This dataset(average-rating.csv) contains a list of games, their ratings and supporting information like numbers of users
 who rated and year it was published. In the data sample below, each row under the header represents a
 game name, year, average rating, and number of users who rated the game.
+
+![Alt Text](./q4.gif)
